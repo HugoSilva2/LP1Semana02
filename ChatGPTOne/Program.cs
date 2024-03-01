@@ -21,6 +21,11 @@ namespace ChatGPTOne
                     answer = "Just a bunch of lines of code...";
                     break;
 
+                    case "What's your hobby?":
+                    answer = "Bully people on the Internet!";
+                    break;
+
+
                 }
             }
 
