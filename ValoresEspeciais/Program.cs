@@ -41,6 +41,10 @@ namespace ValoresEspeciais
             Console.WriteLine(b);
             Console.WriteLine(x);
             Console.WriteLine(y);
+
+            //Overflow int
+            uint ui = uint.MaxValue;
+            Console.WriteLine((uint) (ui + 1));
         }
     }
 }
