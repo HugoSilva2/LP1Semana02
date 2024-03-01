@@ -25,7 +25,11 @@ namespace ChatGPTOne
                     answer = "Bully people on the Internet!";
                     break;
 
+                    case "What's the best variable?":
+                    answer = "Gualter";
+                    break;
 
+                    
                 }
             }
 
