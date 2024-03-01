@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ValoresEspeciais
 {
@@ -29,6 +30,17 @@ namespace ValoresEspeciais
             Console.WriteLine(sb2);
             Console.WriteLine(db2);
             Console.WriteLine(ul2);
+
+
+            //Special Values
+            double a = double.PositiveInfinity;
+            double b = double.NegativeInfinity;
+            double x = double.PositiveInfinity / double.PositiveInfinity;
+            float y = float.NaN;
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.WriteLine(x);
+            Console.WriteLine(y);
         }
     }
 }
