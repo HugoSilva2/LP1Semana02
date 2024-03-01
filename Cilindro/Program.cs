@@ -18,7 +18,7 @@ namespace Cilindro
             float a_float = float.Parse(a);
             float r_float = float.Parse(r);
             //Calculate Volume and Area
-            float volume = MathF.PI + MathF.Pow(r_float,2) * a_float;
+            float volume = MathF.PI * MathF.Pow(r_float,2) * a_float;
             float area = 2 * MathF.PI * r_float * (r_float + a_float);
             
             //Show Volume and Area
