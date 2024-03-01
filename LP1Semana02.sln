@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfExample", "IfExample\IfEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakContinue\BreakContinue.csproj", "{F0B889C3-B5AE-4AB3-9F46-8777BB6BF37A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTOne", "ChatGPTOne\ChatGPTOne.csproj", "{D682537D-0CFB-4CAF-A2E0-2723D1892149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicGun", "MagicGun\MagicGun.csproj", "{877BA24C-4344-4FCB-992E-E423B4192AC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,13 @@ Global
 		{F0B889C3-B5AE-4AB3-9F46-8777BB6BF37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0B889C3-B5AE-4AB3-9F46-8777BB6BF37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0B889C3-B5AE-4AB3-9F46-8777BB6BF37A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D682537D-0CFB-4CAF-A2E0-2723D1892149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D682537D-0CFB-4CAF-A2E0-2723D1892149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D682537D-0CFB-4CAF-A2E0-2723D1892149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D682537D-0CFB-4CAF-A2E0-2723D1892149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877BA24C-4344-4FCB-992E-E423B4192AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877BA24C-4344-4FCB-992E-E423B4192AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877BA24C-4344-4FCB-992E-E423B4192AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877BA24C-4344-4FCB-992E-E423B4192AC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
